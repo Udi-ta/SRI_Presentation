@@ -1,9 +1,16 @@
 Google patents links: 
 1. https://patents.google.com/patent/US8577184B2/en
 2. https://patents.google.com/patent/US20170307440A1/en
+3. https://research.google/blog/see-better-and-further-with-super-res-zoom-on-the-pixel-3/
 
 wikipedia link:
 1. https://en.wikipedia.org/wiki/Super-resolution_imaging
+2. https://en.wikipedia.org/wiki/Information_theory
+3. https://en.wikipedia.org/wiki/Generative_adversarial_network
+4. https://en.wikipedia.org/wiki/Structural_similarity_index_measure#Performance_comparison
 
 github for neyral networks:
 1. https://github.com/aridiosilva/AI_Books/blob/master/Book%20-%20Neural%20Networks%20and%20Deep%20Learning%20-%20Michael%20Nielsen%20-%20281%20pages%20Oct%202018%20.pdf
+
+Loss Functions for Image Restoration with Neural Networks : https://arxiv.org/pdf/1511.08861
+https://aws.amazon.com/what-is/neural-network/#:~:text=A%20neural%20network%20is%20a,inspired%20by%20the%20human%20brain.
